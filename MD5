@@ -1,0 +1,12 @@
+c3783204329e8a8e79064da2e6cf9b05 *DESCRIPTION
+fe11d2a0ade48687cca17ee56b8a8dcf *NAMESPACE
+7cc795790e67b0bb436aa1c6afda3832 *R/data_paper.R
+adcb40b741b80767189473cfb4b64bfa *R/data_test.R
+bd8421643f10ced5f71369c35d0cad56 *R/estimate_participant.R
+a319345ef71ec37bbedb832ae4f8d54f *R/generate_norms.R
+db4c53659ca8b8bf95269638de950c8e *data/data_paper.rda
+504a07892e5fd48b280c6327b6660bd7 *data/data_test.rda
+62c381b7089a0d3c8774691e03c4784c *man/data_paper.Rd
+bdf028d1d80fee8b0170fb01ce5243c3 *man/data_test.Rd
+fe806608a2a778998212d9e662ca8835 *man/estimate_participant.Rd
+d6c867c906e5c7648a16f5c2a51aef46 *man/generate_norms.Rd
