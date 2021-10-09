@@ -2,3 +2,7 @@
 
 export(estimate_participant)
 export(generate_norms)
+export(property_simulator)
+importFrom(graphics,hist)
+importFrom(stats,rnorm)
+importFrom(stats,sd)
